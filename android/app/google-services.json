@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714665374022",
+    "project_id": "motivapp-c8743",
+    "storage_bucket": "motivapp-c8743.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714665374022:android:3d08b73193270185153547",
+        "android_client_info": {
+          "package_name": "com.marcosgoizueta.motivapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy3boSnQY4VvlBzOEYyRuz9xdyROpqGn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
